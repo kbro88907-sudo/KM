@@ -1,0 +1,6 @@
+{
+  "name": "صمملي | Sammemly - وكالة التصميم والهوية البصرية",
+  "description": "معرض أعمال وخدمات وكالة صمملي (Sammemly) - تصميم جرافيك، هوية بصرية، منيوهات، موشن جرافيك، وإدارة سوشيال ميديا بأعلى جودة احترافية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
